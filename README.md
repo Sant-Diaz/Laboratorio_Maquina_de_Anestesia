@@ -288,11 +288,9 @@ La **Pausa Inspiratoria** (`[Pausa:Insp.]`) se activa en el **submenú `[Modo Ve
 
 
 
-# 🔬 Parte B — Laboratorio Práctico
+#  Parte B — Laboratorio Práctico
 
-> Trabajo realizado durante la sesión presencial con la máquina WATO EX-20 en el laboratorio de Instrumentación Biomédica y Biosensores.
 
----
 
 ## 1. Identificación de Partes de la Máquina WATO EX-20
 
