@@ -1,8 +1,6 @@
-# 📚 Parte A — Preguntas de Pre-Laboratorio
+# Parte A — Preguntas de Pre-Laboratorio
 
-> Estas preguntas fueron respondidas mediante revisión del manual de operación de la WATO EX-20 y literatura científica relacionada.
 
----
 
 ## Pregunta a — Tipos de Anestesia en Cirugía
 
